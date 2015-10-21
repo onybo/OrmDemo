@@ -5,11 +5,11 @@ Run using entity framework to create the database.
 
 Sample data
 
-People
-Name MemberOf_Id
-A        1
-B        1
+    People
+    Name MemberOf_Id
+    A        1
+    B        1
 
-Organizations
-Id  Name   Amount
-1   OrgA     0,00
+    Organizations
+    Id  Name   Amount
+    1   OrgA     0,00
